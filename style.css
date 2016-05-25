@@ -1,0 +1,16 @@
+body {
+  color: #fff;
+  font-family:Monospace;
+  font-size:13px;
+  text-align:center;
+
+  background-color: #fff;
+  margin: 0px;
+  overflow: hidden;
+}
+
+a { color:skyblue }
+
+#info { position:absolute; top:0px; width: 100%; text-align:center; }
+.button { background:#000; color:#fff; padding:0.2em 0.5em; cursor:pointer }
+.inactive { background:#999; color:#eee }
